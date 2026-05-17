@@ -1,0 +1,24 @@
+Static Timing Analysis Report
+--------------------------------
+
+Clock Period : 10 ns
+
+Setup Analysis:
+---------------
+Worst Negative Slack (WNS): 0.25 ns
+Total Negative Slack (TNS): 0.00 ns
+
+Hold Analysis:
+--------------
+No hold violations detected.
+
+Timing Summary:
+---------------
+All timing constraints satisfied successfully.
+
+Recommended Timing Closure Techniques:
+--------------------------------------
+1. Pipelining
+2. Logic optimization
+3. Buffer insertion
+4. Gate sizing
