@@ -1,0 +1,4 @@
+read_verilog design.sv
+synth -top alu_8bit
+write_verilog alu_netlist.v
+stat
